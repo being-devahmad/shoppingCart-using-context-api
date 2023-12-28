@@ -1,8 +1,13 @@
-# React + Vite
+# This repository showcases a React application that leverages the following key features:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Data Fetching:
+Utilizes the Fetch API to dynamically retrieve product data from an external API.
 
-Currently, two official plugins are available:
+# State Management:
+Implements state management using the useContext hook to efficiently handle application-wide data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Shopping Cart Functionality:
+Enables users to effortlessly add and remove items from their shopping cart, enhancing the interactive shopping experience.
+
+# Detailed Product View:
+Provides a seamless user experience by allowing users to view detailed information for individual products directly from the products page.
